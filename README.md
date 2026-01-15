@@ -216,9 +216,9 @@ Block Explorer: https://sepolia.mantlescan.xyz
 ```
 ## Images
 
+<img width="2940" height="5418" alt="screencapture-localhost-3000-2026-01-15-13_21_33" src="https://github.com/user-attachments/assets/6127b9f4-619a-4538-a6fc-2e61d10850ed" />
 
-
-
+<img width="2940" height="4326" alt="screencapture-localhost-3000-dashboard-2026-01-15-13_21_10" src="https://github.com/user-attachments/assets/3b439b93-0d0a-4162-91e6-7f09812dda66" />
 
 ## Disclaimer
 
